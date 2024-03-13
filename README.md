@@ -16,9 +16,13 @@ Via command line
 
 <img width="1025" alt="gpa" src="https://github.com/Marsupilamieue/os232/assets/111985990/2353c746-5514-4a9d-a79a-6670521d338f">
 
+<img width="1184" alt="Screenshot 2024-03-13 at 20 49 16" src="https://github.com/Marsupilamieue/tutorial-1/assets/111985990/a704ca3a-5de5-45dc-954d-c510155ef477">
+
 - Test plan for endpoints ```/all-student-name```
 
 <img width="1025" alt="Screenshot 2024-03-12 at 03 06 12" src="https://github.com/Marsupilamieue/os232/assets/111985990/1c4322c5-aeee-4f5d-aa1c-f10abf55e8ed">
+
+<img width="1184" alt="Screenshot 2024-03-13 at 20 49 02" src="https://github.com/Marsupilamieue/tutorial-1/assets/111985990/1c91bee2-ec74-41ff-ab54-e7d0839f044e">
 <br/><br/>
 
 1. After the profiling and performance optimization process is completed, perform a performance test again using JMeter, see the results, and compare with the first measurement. Is there an improvement from JMeter measurements?
